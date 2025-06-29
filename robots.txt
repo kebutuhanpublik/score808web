@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://livesports.score808.web.id/sitemap.xml
